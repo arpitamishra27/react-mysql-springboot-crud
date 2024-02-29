@@ -72,3 +72,20 @@ This project demonstrates the implementation of a CRUD application using React a
 
 In this project, we successfully built a CRUD application using React and Spring Boot. The application allows users to manage employee records efficiently.
 
+
+## Screenshots
+
+### Add Employee Page
+<img width="1440" alt="Add-employee" src="https://github.com/arpitamishra27/react-mysql-springboot-crud/assets/63522967/7bd774f3-8e7f-4619-947f-53ec51bd84b5">
+
+### Employee List Page
+<img width="1440" alt="Screenshot 2024-02-29 at 12 35 27 AM" src="https://github.com/arpitamishra27/react-mysql-springboot-crud/assets/63522967/33cc8b62-b1fc-4aca-b0ff-22467224fd23">
+
+### Update Employee Page
+<img width="1440" alt="employee-update" src="https://github.com/arpitamishra27/react-mysql-springboot-crud/assets/63522967/9dcb37bd-2dd0-4e4c-b504-3cc900497c91">
+
+### Updated Employee List Page
+<img width="1440" alt="updated-list" src="https://github.com/arpitamishra27/react-mysql-springboot-crud/assets/63522967/eca0a2d9-31a8-43eb-a699-d096ec4e7394">
+
+
+
